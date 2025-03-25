@@ -1,3 +1,3 @@
 # Netflix
 This is one of the most amazing clone of Netflix ever
-Vist:- https://netflix-five-topaz.vercel.app/
+Vist:- https://glistening-nasturtium-7bf051.netlify.app/
